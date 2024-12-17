@@ -1,6 +1,10 @@
 # Shiala Campos
+# December 16th, 2024
 
-### Reflection  
+https://www.loom.com/share/5f3e04a2383d4b078c97a8c221e18c03?sid=0b88374d-f114-4968-a51b-225eae0c3f91
+https://www.loom.com/share/bc36881e4ddd46ed9ebe03bdc028715d?sid=1c091ab1-8f87-4f4f-898b-cb2f36f30fa5
+
+### CS 470 Reflection  
 
 #### **Experiences and Strengths**  
 This course has significantly advanced my understanding of cloud-native development, which aligns closely with my goal of becoming a front-end developer specializing in architectural solutions. By working with AWS microservices, serverless architecture, and containerization tools, I have developed a solid foundation in building scalable, secure, and efficient applications that meet modern industry standards.  
